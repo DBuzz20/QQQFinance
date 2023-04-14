@@ -1,7 +1,8 @@
 # QQQFinance
 Progetto per il "Laboratorio di Architetture Software e Sicurezza Informatica"
-
 Corso di laurea in "Ingegneria Informatica e Automatica" presso "Sapienza" Università di Roma.
+
+Realizzato in `Ruby` ed in particolare usando il framework `Ruby On Rails`
 ## Descrizione del progetto
 QQQFinance è un tool per la finanza personale, che permette all'utente di trovare, studiare e monitorare titoli azionari d'interesse tra quelli contenuti nell'indice Nasdaq-100 tramite 2 feature principali: lo screener ed il wallet.
 Lo screener permette di trovare tra tutte le aziende presenti nell'indice, quelle che soddisfano determinati parametri fondamentali selezionati dall'utente.
