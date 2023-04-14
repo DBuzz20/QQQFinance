@@ -1,7 +1,7 @@
 # QQQFinance
 Progetto per il laboratorio di Architetture Software e Sicurezza Informatica
 
-Corso di laurea in Ingegneria Informatica e Automatica, Sapienza Università di Roma, A.A. 2022/2023
+Corso di laurea in Ingegneria Informatica e Automatica, Sapienza Università di Roma.
 ## Descrizione del progetto
 QQQFinance è un tool per la finanza personale, che permette all'utente di trovare, studiare e monitorare titoli azionari d'interesse tra quelli contenuti nell'indice Nasdaq-100 tramite 2 feature principali: lo screener ed il wallet.
 Lo screener permette di trovare tra tutte le aziende presenti nell'indice, quelle che soddisfano determinati parametri fondamentali selezionati dall'utente.
